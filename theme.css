@@ -13,7 +13,7 @@ body {
 
 
 div.top {
-	box-shadow: 5px 5px 10px 10px rgba(0,0,0,0.5);
+	box-shadow: 5px 5px 10px 1px rgba(0,0,0,0.5);
 	top: 0;
 	left:0;
 	right:0;
@@ -48,4 +48,8 @@ h2 {
 
 h3 {
 	color: #ED7B39FF;
+}
+
+a.srccode {
+	color: #c53c25
 }
